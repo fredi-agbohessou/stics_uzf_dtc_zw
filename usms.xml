@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<usms version="10.1.0">
+  <usm nom="Dtc_maize_ct_2019_2020">
+    <datedebut>317</datedebut>
+    <datefin>500</datefin>
+    <finit>Dtc_maize_ct_2019_2020_ini.xml</finit>
+    <nomsol>Dtc_ct_soil</nomsol>
+    <fstation>Dtc_sta.xml</fstation>
+    <fclim1>Climat_Dtc.2019</fclim1>
+    <fclim2>Climat_Dtc.2020</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Dtc_maize_ct_2019_2020_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Dtc_maize_ct_2019_2020.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Dtc_maize_ct_2020_2021">
+    <datedebut>322</datedebut>
+    <datefin>638</datefin>
+    <finit>Dtc_maize_ct_2020_2021_ini.xml</finit>
+    <nomsol>Dtc_ct_soil</nomsol>
+    <fstation>Dtc_sta.xml</fstation>
+    <fclim1>Climat_Dtc.2020</fclim1>
+    <fclim2>Climat_Dtc.2021</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Dtc_maize_ct_2020_2021_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Dtc_maize_ct_2020_2021.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Dtc_maize_ct_2021_2022">
+    <datedebut>305</datedebut>
+    <datefin>640</datefin>
+    <finit>Dtc_maize_ct_2021_2022_ini.xml</finit>
+    <nomsol>Dtc_ct_soil</nomsol>
+    <fstation>Dtc_sta.xml</fstation>
+    <fclim1>Climat_Dtc.2021</fclim1>
+    <fclim2>Climat_Dtc.2022</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Dtc_maize_ct_2021_2022_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Dtc_maize_ct_2021_2022.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Dtc_maize_ct_2022_2023">
+    <datedebut>305</datedebut>
+    <datefin>640</datefin>
+    <finit>Dtc_maize_ct_2022_2023_ini.xml</finit>
+    <nomsol>Dtc_ct_soil</nomsol>
+    <fstation>Dtc_sta.xml</fstation>
+    <fclim1>Climat_Dtc.2022</fclim1>
+    <fclim2>Climat_Dtc.2023</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Dtc_maize_ct_2022_2023_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Dtc_maize_ct_2022_2023.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Dtc_maize_nt_2019_2020">
+    <datedebut>317</datedebut>
+    <datefin>500</datefin>
+    <finit>Dtc_maize_nt_2019_2020_ini.xml</finit>
+    <nomsol>Dtc_nt_soil</nomsol>
+    <fstation>Dtc_sta.xml</fstation>
+    <fclim1>Climat_Dtc.2019</fclim1>
+    <fclim2>Climat_Dtc.2020</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Dtc_maize_nt_2019_2020_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Dtc_maize_nt_2019_2020.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Dtc_maize_nt_2020_2021">
+    <datedebut>322</datedebut>
+    <datefin>638</datefin>
+    <finit>Dtc_maize_nt_2020_2021_ini.xml</finit>
+    <nomsol>Dtc_nt_soil</nomsol>
+    <fstation>Dtc_sta.xml</fstation>
+    <fclim1>Climat_Dtc.2020</fclim1>
+    <fclim2>Climat_Dtc.2021</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Dtc_maize_nt_2020_2021_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Dtc_maize_nt_2020_2021.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Dtc_maize_nt_2021_2022">
+    <datedebut>305</datedebut>
+    <datefin>640</datefin>
+    <finit>Dtc_maize_nt_2021_2022_ini.xml</finit>
+    <nomsol>Dtc_nt_soil</nomsol>
+    <fstation>Dtc_sta.xml</fstation>
+    <fclim1>Climat_Dtc.2021</fclim1>
+    <fclim2>Climat_Dtc.2022</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Dtc_maize_nt_2021_2022_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Dtc_maize_nt_2021_2022.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Dtc_maize_nt_2022_2023">
+    <datedebut>305</datedebut>
+    <datefin>640</datefin>
+    <finit>Dtc_maize_nt_2022_2023_ini.xml</finit>
+    <nomsol>Dtc_nt_soil</nomsol>
+    <fstation>Dtc_sta.xml</fstation>
+    <fclim1>Climat_Dtc.2022</fclim1>
+    <fclim2>Climat_Dtc.2023</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Dtc_maize_nt_2022_2023_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Dtc_maize_nt_2022_2023.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Dtc_maize_ntm_2019_2020">
+    <datedebut>317</datedebut>
+    <datefin>500</datefin>
+    <finit>Dtc_maize_ntm_2019_2020_ini.xml</finit>
+    <nomsol>Dtc_ntm_soil</nomsol>
+    <fstation>Dtc_sta.xml</fstation>
+    <fclim1>Climat_Dtc.2019</fclim1>
+    <fclim2>Climat_Dtc.2020</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Dtc_maize_ntm_2019_2020_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Dtc_maize_ntm_2019_2020.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Dtc_maize_ntm_2020_2021">
+    <datedebut>322</datedebut>
+    <datefin>638</datefin>
+    <finit>Dtc_maize_ntm_2020_2021_ini.xml</finit>
+    <nomsol>Dtc_ntm_soil</nomsol>
+    <fstation>Dtc_sta.xml</fstation>
+    <fclim1>Climat_Dtc.2020</fclim1>
+    <fclim2>Climat_Dtc.2021</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Dtc_maize_ntm_2020_2021_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Dtc_maize_ntm_2020_2021.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Dtc_maize_ntm_2021_2022">
+    <datedebut>305</datedebut>
+    <datefin>640</datefin>
+    <finit>Dtc_maize_ntm_2021_2022_ini.xml</finit>
+    <nomsol>Dtc_ntm_soil</nomsol>
+    <fstation>Dtc_sta.xml</fstation>
+    <fclim1>Climat_Dtc.2021</fclim1>
+    <fclim2>Climat_Dtc.2022</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Dtc_maize_ntm_2021_2022_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Dtc_maize_ntm_2021_2022.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Dtc_maize_ntm_2022_2023">
+    <datedebut>305</datedebut>
+    <datefin>640</datefin>
+    <finit>Dtc_maize_ntm_2022_2023_ini.xml</finit>
+    <nomsol>Dtc_ntm_soil</nomsol>
+    <fstation>Dtc_sta.xml</fstation>
+    <fclim1>Climat_Dtc.2022</fclim1>
+    <fclim2>Climat_Dtc.2023</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Dtc_maize_ntm_2022_2023_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Dtc_maize_ntm_2022_2023.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Dtc_maize_ctr_2019_2020">
+    <datedebut>317</datedebut>
+    <datefin>500</datefin>
+    <finit>Dtc_maize_ctr_2019_2020_ini.xml</finit>
+    <nomsol>Dtc_ctr_soil</nomsol>
+    <fstation>Dtc_sta.xml</fstation>
+    <fclim1>Climat_Dtc.2019</fclim1>
+    <fclim2>Climat_Dtc.2020</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Dtc_maize_ctr_2019_2020_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Dtc_maize_ctr_2019_2020.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Dtc_maize_ctr_2020_2021">
+    <datedebut>322</datedebut>
+    <datefin>638</datefin>
+    <finit>Dtc_maize_ctr_2020_2021_ini.xml</finit>
+    <nomsol>Dtc_ctr_soil</nomsol>
+    <fstation>Dtc_sta.xml</fstation>
+    <fclim1>Climat_Dtc.2020</fclim1>
+    <fclim2>Climat_Dtc.2021</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Dtc_maize_ctr_2020_2021_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Dtc_maize_ctr_2020_2021.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Dtc_maize_ntr_2019_2020">
+    <datedebut>317</datedebut>
+    <datefin>500</datefin>
+    <finit>Dtc_maize_ntr_2019_2020_ini.xml</finit>
+    <nomsol>Dtc_ntr_soil</nomsol>
+    <fstation>Dtc_sta.xml</fstation>
+    <fclim1>Climat_Dtc.2019</fclim1>
+    <fclim2>Climat_Dtc.2020</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Dtc_maize_ntr_2019_2020_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Dtc_maize_ntr_2019_2020.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Dtc_maize_ntr_2020_2021">
+    <datedebut>322</datedebut>
+    <datefin>638</datefin>
+    <finit>Dtc_maize_ntr_2020_2021_ini.xml</finit>
+    <nomsol>Dtc_ntr_soil</nomsol>
+    <fstation>Dtc_sta.xml</fstation>
+    <fclim1>Climat_Dtc.2020</fclim1>
+    <fclim2>Climat_Dtc.2021</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Dtc_maize_ntr_2020_2021_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Dtc_maize_ntr_2020_2021.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Dtc_maize_ntmr_2019_2020">
+    <datedebut>317</datedebut>
+    <datefin>500</datefin>
+    <finit>Dtc_maize_ntmr_2019_2020_ini.xml</finit>
+    <nomsol>Dtc_ntmr_soil</nomsol>
+    <fstation>Dtc_sta.xml</fstation>
+    <fclim1>Climat_Dtc.2019</fclim1>
+    <fclim2>Climat_Dtc.2020</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Dtc_maize_ntmr_2019_2020_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Dtc_maize_ntmr_2019_2020.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Dtc_maize_ntmr_2020_2021">
+    <datedebut>322</datedebut>
+    <datefin>638</datefin>
+    <finit>Dtc_maize_ntmr_2020_2021_ini.xml</finit>
+    <nomsol>Dtc_ntmr_soil</nomsol>
+    <fstation>Dtc_sta.xml</fstation>
+    <fclim1>Climat_Dtc.2020</fclim1>
+    <fclim2>Climat_Dtc.2021</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Dtc_maize_ntmr_2020_2021_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Dtc_maize_ntmr_2020_2021.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Uzf_maize_ct_2019_2020">
+    <datedebut>315</datedebut>
+    <datefin>500</datefin>
+    <finit>Uzf_maize_ct_2019_2020_ini.xml</finit>
+    <nomsol>Uzf_ct_soil_2019_2020</nomsol>
+    <fstation>Uzf_sta.xml</fstation>
+    <fclim1>Climat_Uzf.2019</fclim1>
+    <fclim2>Climat_Uzf.2020</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Uzf_maize_ct_2019_2020_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Uzf_maize_ct_2019_2020.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Uzf_maize_ct_2020_2021">
+    <datedebut>322</datedebut>
+    <datefin>638</datefin>
+    <finit>Uzf_maize_ct_2020_2021_ini.xml</finit>
+    <nomsol>Uzf_ct_soil</nomsol>
+    <fstation>Uzf_sta.xml</fstation>
+    <fclim1>Climat_Uzf.2020</fclim1>
+    <fclim2>Climat_Uzf.2021</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Uzf_maize_ct_2020_2021_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Uzf_maize_ct_2020_2021.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Uzf_maize_ct_2021_2022">
+    <datedebut>305</datedebut>
+    <datefin>640</datefin>
+    <finit>Uzf_maize_ct_2021_2022_ini.xml</finit>
+    <nomsol>Uzf_ct_soil</nomsol>
+    <fstation>Uzf_sta.xml</fstation>
+    <fclim1>Climat_Uzf.2021</fclim1>
+    <fclim2>Climat_Uzf.2022</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Uzf_maize_ct_2021_2022_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Uzf_maize_ct_2021_2022.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Uzf_maize_ct_2022_2023">
+    <datedebut>305</datedebut>
+    <datefin>640</datefin>
+    <finit>Uzf_maize_ct_2022_2023_ini.xml</finit>
+    <nomsol>Uzf_ct_soil</nomsol>
+    <fstation>Uzf_sta.xml</fstation>
+    <fclim1>Climat_Uzf.2022</fclim1>
+    <fclim2>Climat_Uzf.2023</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Uzf_maize_ct_2022_2023_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Uzf_maize_ct_2022_2023.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Uzf_maize_nt_2019_2020">
+    <datedebut>315</datedebut>
+    <datefin>500</datefin>
+    <finit>Uzf_maize_nt_2019_2020_ini.xml</finit>
+    <nomsol>Uzf_nt_soil_2019_2020</nomsol>
+    <fstation>Uzf_sta.xml</fstation>
+    <fclim1>Climat_Uzf.2019</fclim1>
+    <fclim2>Climat_Uzf.2020</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Uzf_maize_nt_2019_2020_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Uzf_maize_nt_2019_2020.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Uzf_maize_nt_2020_2021">
+    <datedebut>322</datedebut>
+    <datefin>638</datefin>
+    <finit>Uzf_maize_nt_2020_2021_ini.xml</finit>
+    <nomsol>Uzf_nt_soil</nomsol>
+    <fstation>Uzf_sta.xml</fstation>
+    <fclim1>Climat_Uzf.2020</fclim1>
+    <fclim2>Climat_Uzf.2021</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Uzf_maize_nt_2020_2021_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Uzf_maize_nt_2020_2021.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Uzf_maize_nt_2021_2022">
+    <datedebut>305</datedebut>
+    <datefin>640</datefin>
+    <finit>Uzf_maize_nt_2021_2022_ini.xml</finit>
+    <nomsol>Uzf_nt_soil</nomsol>
+    <fstation>Uzf_sta.xml</fstation>
+    <fclim1>Climat_Uzf.2021</fclim1>
+    <fclim2>Climat_Uzf.2022</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Uzf_maize_nt_2021_2022_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Uzf_maize_nt_2021_2022.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Uzf_maize_nt_2022_2023">
+    <datedebut>305</datedebut>
+    <datefin>640</datefin>
+    <finit>Uzf_maize_nt_2022_2023_ini.xml</finit>
+    <nomsol>Uzf_nt_soil</nomsol>
+    <fstation>Uzf_sta.xml</fstation>
+    <fclim1>Climat_Uzf.2022</fclim1>
+    <fclim2>Climat_Uzf.2023</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Uzf_maize_nt_2022_2023_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Uzf_maize_nt_2022_2023.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Uzf_maize_ntm_2019_2020">
+    <datedebut>315</datedebut>
+    <datefin>500</datefin>
+    <finit>Uzf_maize_ntm_2019_2020_ini.xml</finit>
+    <nomsol>Uzf_ntm_soil_2019_2020</nomsol>
+    <fstation>Uzf_sta.xml</fstation>
+    <fclim1>Climat_Uzf.2019</fclim1>
+    <fclim2>Climat_Uzf.2020</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Uzf_maize_ntm_2019_2020_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Uzf_maize_ntm_2019_2020.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Uzf_maize_ntm_2020_2021">
+    <datedebut>322</datedebut>
+    <datefin>638</datefin>
+    <finit>Uzf_maize_ntm_2020_2021_ini.xml</finit>
+    <nomsol>Uzf_ntm_soil</nomsol>
+    <fstation>Uzf_sta.xml</fstation>
+    <fclim1>Climat_Uzf.2020</fclim1>
+    <fclim2>Climat_Uzf.2021</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Uzf_maize_ntm_2020_2021_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Uzf_maize_ntm_2020_2021.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Uzf_maize_ntm_2021_2022">
+    <datedebut>305</datedebut>
+    <datefin>640</datefin>
+    <finit>Uzf_maize_ntm_2021_2022_ini.xml</finit>
+    <nomsol>Uzf_ntm_soil</nomsol>
+    <fstation>Uzf_sta.xml</fstation>
+    <fclim1>Climat_Uzf.2021</fclim1>
+    <fclim2>Climat_Uzf.2022</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Uzf_maize_ntm_2021_2022_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Uzf_maize_ntm_2021_2022.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Uzf_maize_ntm_2022_2023">
+    <datedebut>305</datedebut>
+    <datefin>640</datefin>
+    <finit>Uzf_maize_ntm_2022_2023_ini.xml</finit>
+    <nomsol>Uzf_ntm_soil</nomsol>
+    <fstation>Uzf_sta.xml</fstation>
+    <fclim1>Climat_Uzf.2022</fclim1>
+    <fclim2>Climat_Uzf.2023</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Uzf_maize_ntm_2022_2023_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Uzf_maize_ntm_2022_2023.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Uzf_maize_ctr_2019_2020">
+    <datedebut>315</datedebut>
+    <datefin>500</datefin>
+    <finit>Uzf_maize_ctr_2019_2020_ini.xml</finit>
+    <nomsol>Uzf_ctr_soil_2019_2020</nomsol>
+    <fstation>Uzf_sta.xml</fstation>
+    <fclim1>Climat_Uzf.2019</fclim1>
+    <fclim2>Climat_Uzf.2020</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Uzf_maize_ctr_2019_2020_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Uzf_maize_ctr_2019_2020.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Uzf_maize_ctr_2020_2021">
+    <datedebut>322</datedebut>
+    <datefin>638</datefin>
+    <finit>Uzf_maize_ctr_2020_2021_ini.xml</finit>
+    <nomsol>Uzf_ctr_soil</nomsol>
+    <fstation>Uzf_sta.xml</fstation>
+    <fclim1>Climat_Uzf.2020</fclim1>
+    <fclim2>Climat_Uzf.2021</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Uzf_maize_ctr_2020_2021_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Uzf_maize_ctr_2020_2021.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Uzf_maize_ntr_2019_2020">
+    <datedebut>315</datedebut>
+    <datefin>500</datefin>
+    <finit>Uzf_maize_ntr_2019_2020_ini.xml</finit>
+    <nomsol>Uzf_ntr_soil_2019_2020</nomsol>
+    <fstation>Uzf_sta.xml</fstation>
+    <fclim1>Climat_Uzf.2019</fclim1>
+    <fclim2>Climat_Uzf.2020</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Uzf_maize_ntr_2019_2020_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Uzf_maize_ntr_2019_2020.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Uzf_maize_ntr_2020_2021">
+    <datedebut>322</datedebut>
+    <datefin>638</datefin>
+    <finit>Uzf_maize_ntr_2020_2021_ini.xml</finit>
+    <nomsol>Uzf_ntr_soil</nomsol>
+    <fstation>Uzf_sta.xml</fstation>
+    <fclim1>Climat_Uzf.2020</fclim1>
+    <fclim2>Climat_Uzf.2021</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Uzf_maize_ntr_2020_2021_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Uzf_maize_ntr_2020_2021.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Uzf_maize_ntmr_2019_2020">
+    <datedebut>315</datedebut>
+    <datefin>500</datefin>
+    <finit>Uzf_maize_ntmr_2019_2020_ini.xml</finit>
+    <nomsol>Uzf_ntmr_soil_2019_2020</nomsol>
+    <fstation>Uzf_sta.xml</fstation>
+    <fclim1>Climat_Uzf.2019</fclim1>
+    <fclim2>Climat_Uzf.2020</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Uzf_maize_ntmr_2019_2020_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Uzf_maize_ntmr_2019_2020.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+  <usm nom="Uzf_maize_ntmr_2020_2021">
+    <datedebut>322</datedebut>
+    <datefin>638</datefin>
+    <finit>Uzf_maize_ntmr_2020_2021_ini.xml</finit>
+    <nomsol>Uzf_ntmr_soil</nomsol>
+    <fstation>Uzf_sta.xml</fstation>
+    <fclim1>Climat_Uzf.2020</fclim1>
+    <fclim2>Climat_Uzf.2021</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>corn_souleymane_plt.xml</fplt>
+      <ftec>Uzf_maize_ntmr_2020_2021_tec.xml</ftec>
+      <flai>null</flai>
+      <fobs>Uzf_maize_ntmr_2020_2021.obs</fobs>
+    </plante>
+    <plante dominance="2">
+      <fplt>null</fplt>
+      <ftec>null</ftec>
+      <flai>null</flai>
+      <fobs>null</fobs>
+    </plante>
+  </usm>
+</usms>
+
